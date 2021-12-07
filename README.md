@@ -8,8 +8,6 @@ If you really have questions that cannot be resolved on Github Issue, you can us
 * 🚩  鄭謹譯：https://meet.google.com/gqw-cjsy-mcx
 * 💣  黃世丞：https://meet.google.com/ume-zgrb-upf
 * 🚩  吳祥叡：https://meet.google.com/qaa-osjf-khv
-* 💣  皇甫立翔：https://meet.google.com/bhp-xwrr-rrf  (9:30-10:20, 10:40-12:00 available)
-* 🚩  呂承樺：https://meet.google.com/cvo-uyaz-zff  (11:20-12:00 available)
 
 ## Github Issue Operation Simple Tutorial
 ### 操作流程
